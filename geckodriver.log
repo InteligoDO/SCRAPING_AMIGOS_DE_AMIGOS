@@ -1,0 +1,94 @@
+1620611895409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Inteligo\\AppData\\Local\\Temp\\rust_mozprofileTEJvcJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1620611905255	Marionette	INFO	Listening on port 55490
+1620611905480	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1620612059056	Marionette	INFO	Stopped listening on port 55490
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1620612065337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Inteligo\\AppData\\Local\\Temp\\rust_mozprofilerpbRST"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1620612069582	Marionette	INFO	Listening on port 55639
+1620612069615	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+1620612158105	Marionette	INFO	Stopped listening on port 55639
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1620612241836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Inteligo\\AppData\\Local\\Temp\\rust_mozprofileF2ndjR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1620612245530	Marionette	INFO	Listening on port 55765
+1620612246024	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysK4/yI/l/es_LA/9vYxnRiq5c_.js?_nc_x=4x7Ba7qHkyf, line 146: unreachable code after return statement
+1620612331848	Marionette	INFO	Stopped listening on port 55765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621447861187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Inteligo\\AppData\\Local\\Temp\\rust_mozprofileCr1anK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1621447865739	Marionette	INFO	Listening on port 61608
+1621447866006	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBDR4/yJ/l/es_LA/9LWchUq_jyi.js?_nc_x=4x7Ba7qHkyf, line 142: unreachable code after return statement
